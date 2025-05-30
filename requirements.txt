@@ -1,0 +1,5 @@
+folium
+streamlit-folium
+scikit-learn
+pandas
+streamlit
